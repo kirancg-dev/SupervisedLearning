@@ -1,2 +1,2 @@
 # SupervisedLearning
-Supervised Learning
+Supervised Learning (classification with logistic regression, random forests, neural networks)
